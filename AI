@@ -1,0 +1,5 @@
+### 🧠 AI Usage Report
+  - Scaffold the dashboard layout with cards, charts, and data table.
+  - Generate mock data and realistic content for visual testing.
+  - Solve import and UI issues (e.g., shadcn/ui setup, component structure).
+  - Add responsive design, chart integration, and reusable component logic.
